@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
             //Log.e("MYJSON",name);
 
             System.out.println("#100develop");
+             System.out.println("change");
 
         } catch (JSONException e) {
             throw new RuntimeException(e);
